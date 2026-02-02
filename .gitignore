@@ -1,5 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Downloaded files
 *.mp4
 *.mp3
-*.pyc
-__pycache__/
+*.m4a
+*.webm
+
+# OS files
 .DS_Store
+Thumbs.db
